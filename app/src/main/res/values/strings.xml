@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">BlinkMap</string>
-    <string name="title_activity_location_services">BlinkMap</string>
+    <string name="title_activity_location_services">StartPage</string>
 </resources>
